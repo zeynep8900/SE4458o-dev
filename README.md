@@ -28,3 +28,6 @@ To make a payment for student tuition, you can use the following endpoint:
 - Each service prints out the port it's listening on in the console output upon startup.
 - Error messages are displayed in the console output in case of errors, and appropriate error messages such as "Internal Server Error" or "Student not found" are returned to clients.
 
+# VIDEO LINK
+- https://drive.google.com/file/d/1nmLis1xmnjQ86KDuUGS2J63hAR1XDNjV/view?usp=sharing 
+
